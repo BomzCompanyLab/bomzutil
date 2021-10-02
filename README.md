@@ -2,7 +2,7 @@
 
 **BOMZ Public Project Util 1.1**
 
-자바 기반의 유틸리티입니다
+자바 기반의 유틸리티
 
 
 **Collection**
